@@ -1,0 +1,435 @@
+name,club,retired,position,nationality,ballon_dor,champions_league
+Alisson Becker,Liverpool,False,Goalkeeper,Brazil,False,True
+Giorgi Mamardashvili,Liverpool,False,Goalkeeper,Georgia,False,False
+Freddie Woodman,Liverpool,False,Goalkeeper,England,False,False
+Virgil van Dijk,Liverpool,False,Defender,Netherlands,False,True
+Ibrahima Konaté,Liverpool,False,Defender,France,False,False
+Milos Kerkez,Liverpool,False,Defender,Hungary,False,False
+Conor Bradley,Liverpool,False,Defender,Northern Ireland,False,False
+Joe Gomez,Liverpool,False,Defender,England,False,False
+Andy Robertson,Liverpool,False,Defender,Scotland,False,False
+Jeremie Frimpong,Liverpool,False,Defender,Netherlands,False,False
+Wataru Endo,Liverpool,False,Midfielder,Japan,False,False
+Florian Wirtz,Liverpool,False,Midfielder,Germany,False,False
+Dominik Szoboszlai,Liverpool,False,Midfielder,Hungary,False,False
+Alexis Mac Allister,Liverpool,False,Midfielder,Argentina,False,False
+Curtis Jones,Liverpool,False,Midfielder,England,False,False
+Ryan Gravenberch,Liverpool,False,Midfielder,Netherlands,False,False
+Alexander Isak,Liverpool,False,Forward,Sweden,False,False
+Mohamed Salah,Liverpool,False,Forward,Egypt,False,False
+Cody Gakpo,Liverpool,False,Forward,Netherlands,False,False
+Hugo Ekitike,Liverpool,False,Forward,France,False,False
+Rio Ngumoha,Liverpool,False,Forward,England,False,False
+Giovanni Leoni,Liverpool,False,Defender,Italy,False,False
+Ederson,Manchester City,False,Goalkeeper,Brazil,False,True
+Stefan Ortega,Manchester City,False,Goalkeeper,Germany,False,True
+Kyle Walker,Manchester City,False,Defender,England,False,True
+"Rúben Dias,Manchester City,False,Defender,Portugal,False,True"
+John Stones,Manchester City,False,Defender,England,False,True
+Joško Gvardiol,Manchester City,False,Defender,Croatia,False,True
+Nathan Aké,Manchester City,False,Defender,Netherlands,False,True
+Manuel Akanji,Manchester City,False,Defender,Switzerland,False,True
+Rico Lewis,Manchester City,False,Defender,England,False,True
+Sergio Gómez,Manchester City,False,Defender,Spain,False,False
+Rodri,Manchester City,False,Midfielder,Spain,False,True
+Kevin De Bruyne,Manchester City,False,Midfielder,Belgium,False,True
+Bernardo Silva,Manchester City,False,Midfielder,Portugal,False,True
+Mateo Kovačić,Manchester City,False,Midfielder,Croatia,False,True
+Kalvin Phillips,Manchester City,False,Midfielder,England,False,False
+Matheus Nunes,Manchester City,False,Midfielder,Portugal,False,False
+Phil Foden,Manchester City,False,Forward,England,False,True
+Jack Grealish,Manchester City,False,Forward,England,False,True
+Jérémy Doku,Manchester City,False,Forward,Belgium,False,False
+Julián Álvarez,Manchester City,False,Forward,Argentina,False,True
+Erling Haaland,Manchester City,False,Forward,Norway,False,True
+Oscar Bobb,Manchester City,False,Forward,Norway,False,True
+Andre Onana,Manchester United,False,Goalkeeper,Cameroon,False,False
+Senne Lammens,Manchester United,False,Goalkeeper,Belgium,False,False
+Altay Bayindir,Manchester United,False,Goalkeeper,Turkey,False,False
+Matheus Cunha,Manchester United,False,Forward,Brazil,False,False
+Benjamin Šeško,Manchester United,False,Forward,Slovenia,False,False
+Bryan Mbeumo,Manchester United,False,Forward,Cameroon,False,False
+Diego Leon,Manchester United,False,Defender,Paraguay,False,False
+Patrick Dorgu,Manchester United,False,Defender,Denmark,False,False
+Diogo Dalot,Manchester United,False,Defender,Portugal,False,False
+Luke Shaw,Manchester United,False,Defender,England,False,False
+Zachary Baumann,Manchester United,False,Defender,England,False,False
+Ethan Williams,Manchester United,False,Defender,England,False,False
+Bruno Fernandes,Manchester United,False,Midfielder,Portugal,False,False
+Kobbie Mainoo,Manchester United,False,Midfielder,England,False,False
+Manuel Ugarte,Manchester United,False,Midfielder,Uruguay,False,False
+Toby Collyer,Manchester United,False,Midfielder,England,False,False
+Tyler Fredricson,Manchester United,False,Midfielder,England,False,False
+Harry Amass,Manchester United,False,Midfielder,England,False,False
+Alejandro Garnacho,Manchester United,False,Forward,Argentina,False,False
+Jadon Sancho,Manchester United,False,Forward,England,False,False
+Marcus Rashford,Manchester United,False,Forward,England,False,False
+Ethan Ennis,Manchester United,False,Midfielder,England,False,False
+David Raya,Arsenal,false,Goalkeeper,Spain,false,false
+Kepa Arrizabalaga,Arsenal,false,Goalkeeper,Spain,false,true
+William Saliba,Arsenal,false,Defender,France,false,false
+Gabriel Magalhães,Arsenal,false,Defender,Brazil,false,false
+Piero Hincapié,Arsenal,false,Defender,Ecuador,false,false
+Cristhian Mosquera,Arsenal,false,Defender,Spain,false,false
+Riccardo Calafiori,Arsenal,false,Defender,Italy,false,false
+Myles Lewis-Skelly,Arsenal,false,Defender,England,false,false
+Jurriën Timber,Arsenal,false,Defender,Netherlands,false,false
+Ben White,Arsenal,false,Defender,England,false,false
+Declan Rice,Arsenal,false,Midfielder,England,false,false
+Martin Ødegaard,Arsenal,false,Midfielder,Norway,false,false
+Christian Nørgaard,Arsenal,false,Midfielder,Denmark,false,false
+Noni Madueke,Arsenal,false,Midfielder,England,false,false
+Viktor Gyökeres,Arsenal,false,Forward,Sweden,false,false
+Bukayo Saka,Arsenal,false,Forward,England,false,false
+Gabriel Jesus,Arsenal,false,Forward,Brazil,false,false
+Kai Havertz,Arsenal,false,Forward,Germany,false,true
+Ethan Nwaneri,Arsenal,false,Midfielder,England,false,false
+Robert Sánchez,Chelsea,false,Goalkeeper,Spain,false,false
+Filip Jørgensen,Chelsea,false,Goalkeeper,Denmark,false,false
+Gaga Slonina,Chelsea,false,Goalkeeper,United States,false,false
+Marc Cucurella,Chelsea,false,Defender,Spain,false,false
+Tosin Adarabioyo,Chelsea,false,Defender,England,false,false
+Benoît Badiashile,Chelsea,false,Defender,France,false,false
+Levi Colwill,Chelsea,false,Defender,England,false,false
+Trevoh Chalobah,Chelsea,false,Defender,England,false,false
+Reece James,Chelsea,false,Defender,England,false,false
+Wesley Fofana,Chelsea,false,Defender,France,false,false
+Jorrel Hato,Chelsea,false,Defender,Netherlands,false,false
+Andrey Santos,Chelsea,false,Midfielder,Brazil,false,false
+Enzo Fernández,Chelsea,false,Midfielder,Argentina,false,false
+Cole Palmer,Chelsea,false,Midfielder,England,false,false
+Jamie Gittens,Chelsea,false,Midfielder,England,false,false
+Moises Caicedo,Chelsea,false,Midfielder,Ecuador,false,false
+Facundo Buonanotte,Chelsea,false,Midfielder,Argentina,false,false
+Dário Essugo,Chelsea,false,Midfielder,Portugal,false,false
+Tyrique George,Chelsea,false,Forward,England,false,false
+Pedro Neto,Chelsea,false,Forward,Portugal,false,false
+Liam Delap,Chelsea,false,Forward,England,false,false
+João Pedro,Chelsea,false,Forward,Brazil,false,false
+Marc Guiu,Chelsea,false,Forward,Spain,false,false
+Estêvão Willian,Chelsea,false,Forward,Brazil,false,false
+Alejandro Garnacho,Chelsea,false,Forward,Argentina,false,false
+Mykhailo Mudryk,Chelsea,false,Forward,Ukraine,false,false
+Raheem Sterling,Chelsea,false,Forward,England,false,true
+Nicolas Jackson,Chelsea,false,Forward,Senegal,false,false
+Christopher Nkunku,Chelsea,false,Forward,France,false,false
+Guglielmo Vicario,Tottenham Hotspur,false,Goalkeeper,Italy,false,false
+Brandon Austin,Tottenham Hotspur,false,Goalkeeper,England,false,false
+Antonin Kinsky,Tottenham Hotspur,false,Goalkeeper,Czechia,false,false
+Radu Dragusin,Tottenham Hotspur,false,Defender,Romania,false,false
+Kevin Danso,Tottenham Hotspur,false,Defender,Austria,false,false
+Ben Davies,Tottenham Hotspur,false,Defender,Wales,false,false
+Micky van de Ven,Tottenham Hotspur,false,Defender,Netherlands,false,false
+Christian Romero,Tottenham Hotspur,false,Defender,Argentina,false,false
+Pedro Porro,Tottenham Hotspur,false,Defender,Spain,false,false
+Destiny Udogie,Tottenham Hotspur,false,Defender,Italy,false,false
+Yves Bissouma,Tottenham Hotspur,false,Midfielder,Mali,false,false
+João Palhinha,Tottenham Hotspur,false,Midfielder,Portugal,false,false
+James Maddison,Tottenham Hotspur,false,Midfielder,England,false,false
+Rodrigo Bentancur,Tottenham Hotspur,false,Midfielder,Uruguay,false,false
+Lucas Bergvall,Tottenham Hotspur,false,Midfielder,Sweden,false,false
+Dejan Kulusevski,Tottenham Hotspur,false,Midfielder,Sweden,false,false
+Mohammed Kudus,Tottenham Hotspur,false,Forward,Ghana,false,false
+Richarlison,Tottenham Hotspur,false,Forward,Brazil,false,false
+Dominic Solanke,Tottenham Hotspur,false,Forward,England,false,false
+Brennan Johnson,Tottenham Hotspur,false,Forward,Wales,false,false
+Wilson Odobert,Tottenham Hotspur,false,Forward,France,false,false
+Mathys Tel,Tottenham Hotspur,false,Forward,France,false,false
+Xavi Simons,Tottenham Hotspur,false,Midfielder,Netherlands,false,false
+Djed Spence,Tottenham Hotspur,false,Defender,England,false,false
+Kōta Takai,Tottenham Hotspur,false,Defender,Japan,false,false
+Nick Pope,Newcastle United,false,Goalkeeper,England,false,false
+John Ruddy,Newcastle United,false,Goalkeeper,England,false,false
+Mark Gillespie,Newcastle United,false,Goalkeeper,Scotland,false,false
+Aaron Ramsdale,Newcastle United,false,Goalkeeper,England,false,false
+Kieran Trippier,Newcastle United,false,Defender,England,false,false
+Lewis Hall,Newcastle United,false,Defender,England,false,false
+Sven Botman,Newcastle United,false,Defender,Netherlands,false,false
+Fabian Schär,Newcastle United,false,Defender,Switzerland,false,false
+Jamaal Lascelles,Newcastle United,false,Defender,England,false,false
+Joelinton,Newcastle United,false,Midfielder,Brazil,false,false
+Sandro Tonali,Newcastle United,false,Midfielder,Italy,false,false
+Bruno Guimaraes,Newcastle United,false,Midfielder,Brazil,false,false
+Anthony Gordon,Newcastle United,false,Midfielder,England,false,false
+Harvey Barnes,Newcastle United,false,Forward,England,false,false
+Malick Thiaw,Newcastle United,false,Defender,Germany,false,false
+Tino Livramento,Newcastle United,false,Defender,England,false,false
+Jacob Murphy,Newcastle United,false,Midfielder,England,false,false
+Will Osula,Newcastle United,false,Forward,England,false,false
+Yoane Wissa,Newcastle United,false,Forward,Congo,false,false
+Nick Woltemade,Newcastle United,false,Forward,Germany,false,false
+William Idamudia Osula,Newcastle United,false,Forward,Denmark,false,false
+Jacob Ramsey,Newcastle United,false,Midfielder,England,false,false
+Apolinario De Lira,Newcastle United,false,Midfielder,Brazil,false,false
+Joseph Willock,Newcastle United,false,Midfielder,England,false,false
+Joe Willock,Newcastle United,false,Midfielder,England,false,false
+Matz Sels,Nottingham Forest,false,Goalkeeper,Belgium,false,false
+Morato,Nottingham Forest,false,Defender,Brazil,false,false
+Murillo,Nottingham Forest,false,Defender,Colombia,false,false
+Neco Williams,Nottingham Forest,false,Defender,Wales,false,false
+Nikola Milenković,Nottingham Forest,false,Defender,Serbia,false,false
+Alex Moreno,Nottingham Forest,false,Defender,Spain,false,false
+Ola Aina,Nottingham Forest,false,Defender,Nigeria,false,false
+Ibrahim Sangaré,Nottingham Forest,false,Midfielder,Ivory Coast,false,false
+Elliot Anderson,Nottingham Forest,false,Midfielder,England,false,false
+Nicolás Domínguez,Nottingham Forest,false,Midfielder,Argentina,false,false
+Ryan Yates,Nottingham Forest,false,Midfielder,England,false,false
+Dan Ndoye,Nottingham Forest,false,Forward,Switzerland,false,false
+Omari Hutchinson,Nottingham Forest,false,Forward,England,false,false
+Igor Jesus,Nottingham Forest,false,Forward,Brazil,false,false
+Callum Hudson-Odoi,Nottingham Forest,false,Forward,England,false,false
+Jair Cunha,Nottingham Forest,false,Defender,Brazil,false,false
+Alphonse Areola,West Ham United,false,Goalkeeper,France,false,false
+Wes Foderingham,West Ham United,false,Goalkeeper,England,false,false
+Max Kilman,West Ham United,false,Defender,England,false,false
+Edson Álvarez,West Ham United,false,Defender,Mexico,false,false
+Jean-Clair Todibo,West Ham United,false,Defender,France,false,false
+Aaron Wan-Bissaka,West Ham United,false,Defender,England,false,false
+Ollie Scarles,West Ham United,false,Defender,England,false,false
+El Hadji Malick Diouf,West Ham United,false,Defender,Senegal,false,false
+James Ward-Prowse,West Ham United,false,Midfielder,England,false,false
+Tomáš Souček,West Ham United,false,Midfielder,Czech Republic,false,false
+Guido Rodríguez,West Ham United,false,Midfielder,Argentina,false,false
+Crysencio Summerville,West Ham United,false,Forward,Netherlands,false,false
+Jarrod Bowen,West Ham United,false,Forward,England,false,false
+Callum Wilson,West Ham United,false,Forward,England,false,false
+Lucas Paquetá,West Ham United,false,Midfielder,Brazil,false,false
+Niclas Füllkrug,West Ham United,false,Forward,Germany,false,false
+Maxwel Cornet,West Ham United,false,Forward,Ivory Coast,false,false
+Andy Irving,West Ham United,false,Midfielder,Scotland,false,false
+George Earthy,West Ham United,false,Midfielder,England,false,false
+Freddie Potts,West Ham United,false,Midfielder,England,false,false
+Callum Marshall,West Ham United,false,Forward,Northern Ireland,false,false
+Emiliano Martínez,Aston Villa,false,Goalkeeper,Argentina,false,false
+Marco Bizot,Aston Villa,false,Goalkeeper,Netherlands,false,false
+James Wright,Aston Villa,false,Goalkeeper,England,false,false
+Sam Proctor,Aston Villa,false,Goalkeeper,England,false,false
+Matty Cash,Aston Villa,false,Defender,Poland,false,false
+Ezri Konsa,Aston Villa,false,Defender,England,false,false
+Tyrone Mings,Aston Villa,false,Defender,England,false,false
+Victor Lindelöf,Aston Villa,false,Defender,Sweden,false,false
+Ian Maatsen,Aston Villa,false,Defender,Netherlands,false,false
+Lucas Digne,Aston Villa,false,Defender,France,false,false
+Travis Patterson,Aston Villa,false,Defender,England,false,false
+Boubacar Kamara,Aston Villa,false,Midfielder,France,false,false
+Youri Tielemans,Aston Villa,false,Midfielder,Belgium,false,false
+Emiliano Buendía,Aston Villa,false,Midfielder,Argentina,false,false
+John McGinn,Aston Villa,false,Midfielder,Scotland,false,false
+Morgan Rogers,Aston Villa,false,Midfielder,England,false,false
+Ollie Watkins,Aston Villa,false,Forward,England,false,false
+Evann Guessand,Aston Villa,false,Forward,Ivory Coast,false,false
+Donyell Malen,Aston Villa,false,Forward,Netherlands,false,false
+Jamaldeen Jimoh-Aloba,Aston Villa,false,Midfielder,England,false,false
+Omar Khedr,Aston Villa,false,Forward,Egypt,false,false
+Zépiqueno Redmond,Aston Villa,false,Forward,Netherlands,false,false
+Victor Özcan,Aston Villa,false,Defender,Turkey,false,false
+Fletcher Boyd,Aston Villa,false,Midfielder,Scotland,false,false
+Caoimhín Kelleher,Brentford,false,Goalkeeper,Ireland,false,true
+Hákon Valdimarsson,Brentford,false,Goalkeeper,Iceland,false,false
+Matthew Cox,Brentford,false,Goalkeeper,England,false,false
+Ellery Balcombe,Brentford,false,Goalkeeper,England,false,false
+Julian Eyestone,Brentford,false,Goalkeeper,USA,false,false
+Aaron Hickey,Brentford,false,Defender,Scotland,false,false
+Rico Henry,Brentford,false,Defender,England,false,false
+Sepp van den Berg,Brentford,false,Defender,Netherlands,false,false
+Nathan Collins,Brentford,false,Defender,Ireland,false,false
+Kristoffer Ajer,Brentford,false,Defender,Norway,false,false
+Michael Kayode,Brentford,false,Defender,Italy,false,false
+Kevin Schade,Brentford,false,Forward,Germany,false,false
+Igor Thiago,Brentford,false,Forward,Brazil,false,false
+Yoane Wissa,Brentford,false,Forward,Congo,false,false
+Dango Ouattara,Brentford,false,Forward,Burkina Faso,false,false
+Fábio Carvalho,Brentford,false,Midfielder,Portugal,false,false
+Frank Onyeka,Brentford,false,Midfielder,Nigeria,false,false
+Antoni Milambo,Brentford,false,Midfielder,Netherlands,false,false
+Yehor Yarmoliuk,Brentford,false,Midfielder,Ukraine,false,false
+Mathias Jensen,Brentford,false,Midfielder,Denmark,false,false
+Keane Lewis-Potter,Brentford,false,Midfielder,England,false,false
+Paris Maghoma,Brentford,false,Midfielder,England,false,false
+Yunus Emre Konak,Brentford,false,Midfielder,Turkey,false,false
+Vitaly Janelt,Brentford,false,Midfielder,Germany,false,false
+Bernd Leno,Fulham,false,Goalkeeper,Germany,false,false
+Benjamin Lecomte,Fulham,false,Goalkeeper,France,false,false
+Kenny Tete,Fulham,false,Defender,Netherlands,false,false
+Calvin Bassey,Fulham,false,Defender,Nigeria,false,false
+Joachim Andersen,Fulham,false,Defender,Denmark,false,false
+Jorge Cuenca,Fulham,false,Defender,Spain,false,false
+Timothy Castagne,Fulham,false,Defender,Belgium,false,false
+Antonee Robinson,Fulham,false,Defender,USA,false,false
+Issa Diop,Fulham,false,Defender,France,false,false
+Harrison Reed,Fulham,false,Midfielder,England,false,false
+Sander Berge,Fulham,false,Midfielder,Norway,false,false
+Alex Iwobi,Fulham,false,Midfielder,Nigeria,false,false
+Emile Smith Rowe,Fulham,false,Midfielder,England,false,false
+Harry Wilson,Fulham,false,Midfielder,Wales,false,false
+"Raúl Jiménez,Fulham,false,Forward,Mexico,false,false"
+Rodrigo Muniz,Fulham,false,Forward,Brazil,false,false
+Jonah Kusi‑Asare,Fulham,false,Forward,Sweden,false,false
+Samuel Chukwueze,Fulham,false,Forward,Nigeria,false,false
+Josh King,Fulham,false,Midfielder,England,false,false
+Anthony Patterson,Sunderland,false,Goalkeeper,England,false,false
+Blondy Nna Noukeu,Sunderland,false,Goalkeeper,Cameroon,false,false
+Simon Moore,Sunderland,false,Goalkeeper,England,false,false
+Robin Roefs,Sunderland,false,Goalkeeper,Netherlands,false,false
+Dennis Cirkin,Sunderland,false,Defender,England,false,false
+Daniel Ballard,Sunderland,false,Defender,Northern Ireland,false,false
+Lutsharel Geertruida,Sunderland,false,Defender,Netherlands,false,true
+Luke O'Nien,Sunderland,false,Defender,England,false,false
+Trai Hume,Sunderland,false,Defender,Northern Ireland,false,false
+Ajibola Alese,Sunderland,false,Defender,England,false,false
+Jenson Seelt,Sunderland,false,Defender,Netherlands,false,false
+Joe Anderson,Sunderland,false,Defender,England,false,false
+Dan Neil,Sunderland,false,Midfielder,England,false,false
+Chemsdine Talbi,Sunderland,false,Midfielder,Morocco,false,false
+Habib Diarra,Sunderland,false,Midfielder,Senegal,false,false
+Chris Rigg,Sunderland,false,Midfielder,England,false,false
+Brian Brobbey,Sunderland,false,Forward,Netherlands,false,false
+Eliezer Mayenda,Sunderland,false,Forward,France,false,false
+Noah Sadiki,Sunderland,false,Defender/Midfielder,Congo,false,false
+Bart Verbruggen,Brighton & Hove Albion,false,Goalkeeper,Netherlands,false,false
+Jason Steele,Brighton & Hove Albion,false,Goalkeeper,England,false,false
+Tom McGill,Brighton & Hove Albion,false,Goalkeeper,Canada,false,false
+Lewis Dunk,Brighton & Hove Albion,false,Defender,England,false,false
+Tariq Lamptey,Brighton & Hove Albion,false,Defender,England,false,false
+Igor Julio,Brighton & Hove Albion,false,Defender,Brazil,false,false
+Adam Webster,Brighton & Hove Albion,false,Defender,England,false,false
+Jan Paul van Hecke,Brighton & Hove Albion,false,Defender,Netherlands,false,false
+Solly March,Brighton & Hove Albion,false,Midfielder,England,false,false
+Brajan Gruda,Brighton & Hove Albion,false,Midfielder,Germany,false,false
+Carlos Baleba,Brighton & Hove Albion,false,Midfielder,Cameroon,false,false
+Yasin Ayari,Brighton & Hove Albion,false,Midfielder,Sweden,false,false
+Matts Wieffer,Brighton & Hove Albion,false,Midfielder,Netherlands,false,false
+Jack Hinshelwood,Brighton & Hove Albion,false,Defender,England,false,false
+Georginio Rutter,Brighton & Hove Albion,false,Forward,France,false,false
+Yankuba Minteh,Brighton & Hove Albion,false,Forward,Gambia,false,false
+Stefanos Tzimas,Brighton & Hove Albion,false,Forward,Greece,false,false
+Tommy Watson,Brighton & Hove Albion,false,Midfielder,England,false,false
+Charalampos Kostoulas,Brighton & Hove Albion,false,Forward,Greece,false,false
+Olivier Boscagli,Brighton & Hove Albion,false,Defender,France,false,false
+Diego Coppola,Brighton & Hove Albion,false,Defender,Italy,false,false
+Diego Gomez,Brighton & Hove Albion,false,Midfielder,Argentina,false,false
+Jeremy Sarmiento,Brighton & Hove Albion,false,Forward,Ecuador,false,false
+Facundo Buonanotte,Brighton & Hove Albion,false,Midfielder,Argentina,false,false
+Jordan Pickford,Everton,false,Goalkeeper,England,false,false
+Mark Travers,Everton,false,Goalkeeper,Ireland,false,false
+Tom King,Everton,false,Goalkeeper,Wales,false,false
+Harry Tyrer,Everton,false,Goalkeeper,England,false,false
+Nathan Patterson,Everton,false,Defender,Scotland,false,false
+Michael Keane,Everton,false,Defender,England,false,false
+James Tarkowski,Everton,false,Defender,England,false,false
+Jake O'Brien,Everton,false,Defender,Ireland,false,false
+Vitalii Mykolenko,Everton,false,Defender,Ukraine,false,false
+Seamus Coleman,Everton,false,Defender,Ireland,false,false
+Jarrad Branthwaite,Everton,false,Defender,England,false,false
+Adam Aznou,Everton,false,Defender/Midfielder,Morocco,false,false
+Dwight McNeil,Everton,false,Midfielder,England,false,false
+Kiernan Dewsbury-Hall,Everton,false,Midfielder,England,false,false
+Charly Alcaraz,Everton,false,Midfielder,Argentina,false,false
+Idrissa Gueye,Everton,false,Midfielder,Senegal,false,false
+Merlin Röhl,Everton,false,Midfielder,Germany,false,false
+James Garner,Everton,false,Midfielder,England,false,false
+Tim Iroegbunam,Everton,false,Midfielder,England,false,false
+Beto,Everton,false,Forward,Portugal,false,false
+Iliman Ndiaye,Everton,false,Forward,Senegal,false,false
+Thierno Barry,Everton,false,Forward,France,false,false
+Jack Grealish,Everton,false,Forward,England,false,false
+Carlos Alcaraz,Everton,false,Forward,Argentina,false,false
+Djordje Petrovic,Bournemouth,false,Goalkeeper,Serbia,false,false
+Fraser Forster,Bournemouth,false,Goalkeeper,England,false,false
+William Dennis,Bournemouth,false,Goalkeeper,England,false,false
+Callan Mckenna,Bournemouth,false,Goalkeeper,Scotland,false,false
+Adrien Truffert,Bournemouth,false,Defender,France,false,false
+Marcos Senesi,Bournemouth,false,Defender,Argentina,false,false
+Julio Soler,Bournemouth,false,Defender,Argentina,false,false
+Julián Araujo,Bournemouth,false,Defender,Mexico,false,false
+Bafodé Diakité,Bournemouth,false,Defender,France,false,false
+Alex Jiménez,Bournemouth,false,Defender,Spain,false,false
+Owen Bevan,Bournemouth,false,Defender,Wales,false,false
+Tyler Adams,Bournemouth,false,Midfielder,USA,false,false
+Lewis Cook,Bournemouth,false,Midfielder,England,false,false
+Marcus Tavernier,Bournemouth,false,Midfielder,England,false,false
+Alex Scott,Bournemouth,false,Midfielder,England,false,false
+Evanilson,Bournemouth,false,Forward,Brazil,false,false
+Justin Kluivert,Bournemouth,false,Forward,Netherlands,false,false
+Eli Junior Kroupi,Bournemouth,false,Forward,France,false,false
+Amine Adli,Bournemouth,false,Forward,Morocco,false,false
+Enes Ünal,Bournemouth,false,Forward,Turkey,false,false
+David Brooks,Bournemouth,false,Forward,Wales,false,false
+Ben Gannon Doak,Bournemouth,false,Midfielder,Scotland,false,false
+James Hill,Bournemouth,false,Defender,England,false,false
+Adam Smith,Bournemouth,false,Defender,England,false,false
+Veljko Milosavljević,Bournemouth,false,Midfielder,Serbia,false,false
+Lucas Perri,Leeds United,false,Goalkeeper,Brazil/Italy,false,false
+Illan Meslier,Leeds United,false,Goalkeeper,France,false,false
+Karl Darlow,Leeds United,false,Goalkeeper,Wales,false,false
+Alex Cairns,Leeds United,false,Goalkeeper,England,false,false
+Jayden Bogle,Leeds United,false,Defender,England,false,false
+Gabriel Gudmundsson,Leeds United,false,Defender,Sweden,false,false
+Pascal Struijk,Leeds United,false,Defender,Netherlands,false,false
+Joe Rodon,Leeds United,false,Defender,Wales,false,false
+Sebastiaan Bornauw,Leeds United,false,Defender,Belgium,false,false
+James Justin,Leeds United,false,Defender,England,false,false
+Ethan Ampadu,Leeds United,false,Defender/Midfielder,Wales,false,false
+Sean Longstaff,Leeds United,false,Midfielder,England,false,false
+Brenden Aaronson,Leeds United,false,Midfielder,USA,false,false
+Anton Stach,Leeds United,false,Midfielder,Germany,false,false
+Ao Tanaka,Leeds United,false,Midfielder,Japan,false,false
+Ilia Gruev,Leeds United,false,Midfielder,Bulgaria,false,false
+Dan James,Leeds United,false,Forward,Wales,false,false
+Dominic Calvert-Lewin,Leeds United,false,Forward,England,false,false
+Joel Piroe,Leeds United,false,Forward,Netherlands,false,false
+Lukas Nmecha,Leeds United,false,Forward,Germany,false,false
+Noah Okafor,Leeds United,false,Forward,Switzerland,false,false
+Wilfried Gnonto,Leeds United,false,Forward,Italy,false,false
+Sam Byram,Leeds United,false,Defender,England,false,false
+Jack Harrison,Leeds United,false,Midfielder,England,false,false
+Sam Chambers,Leeds United,false,Midfielder,Scotland,false,false
+Charlie Crew,Leeds United,false,Midfielder,England,false,false
+"Martin Dúbravka,Burnley,false,Goalkeeper,Slovakia,false,false"
+Max Weiß,Burnley,false,Goalkeeper,Germany,false,false
+Václav Hladký,Burnley,false,Goalkeeper,Czech Republic,false,false
+Kyle Walker,Burnley,false,Defender,England,false,true
+Connor Roberts,Burnley,false,Defender,Wales,false,false
+Joe Worrall,Burnley,false,Defender,England,false,false
+Maxime Estève,Burnley,false,Defender,France,false,false
+Hjalmar Ekdal,Burnley,false,Defender,Sweden,false,false
+Hannes Delcroix,Burnley,false,Defender,Belgium,false,false
+Quilindschy Hartman,Burnley,false,Defender,Netherlands,false,false
+Bashir Humphreys,Burnley,false,Defender,England,false,false
+Lucas Pires,Burnley,false,Defender,Brazil,false,false
+Owen Dodgson,Burnley,false,Defender,England,false,false
+Josh Brownhill,Burnley,false,Midfielder,England,false,false
+Josh Cullen,Burnley,false,Midfielder,England,false,false
+Aaron Ramsey,Burnley,false,Midfielder,England,false,false
+Hannibal Mejbri,Burnley,false,Midfielder,Tunisia,false,false
+Josh Laurent,Burnley,false,Midfielder,England,false,false
+Han-Noah Massengo,Burnley,false,Midfielder,France,false,false
+Mike Trésor,Burnley,false,Midfielder,Belgium,false,false
+Zian Flemming,Burnley,false,Forward,Netherlands,false,false
+Jaidon Anthony,Burnley,false,Forward,England,false,false
+Marcus Edwards,Burnley,false,Forward,England,false,false
+Lyle Foster,Burnley,false,Forward,South Africa,false,false
+Armando Broja,Burnley,false,Forward,Albania,false,false
+José Sá,Wolverhampton Wanderers,false,Goalkeeper,Portugal,false,false
+Sam Johnstone,Wolverhampton Wanderers,false,Goalkeeper,England,false,false
+Dan Bentley,Wolverhampton Wanderers,false,Goalkeeper,England,false,false
+Tom King,Wolverhampton Wanderers,false,Goalkeeper,England,false,false
+Emmanuel Agbadou,Wolverhampton Wanderers,false,Defender,Ivory Coast,false,false
+Toti Gomes,Wolverhampton Wanderers,false,Defender,Portugal,false,false
+Hugo Bueno,Wolverhampton Wanderers,false,Defender,Spain,false,false
+Santiago Bueno,Wolverhampton Wanderers,false,Defender,Uruguay,false,false
+Yerson Mosquera,Wolverhampton Wanderers,false,Defender,Colombia,false,false
+Nasser Djiga,Wolverhampton Wanderers,false,Defender,Burkina Faso,false,false
+Matt Doherty,Wolverhampton Wanderers,false,Defender,Republic of Ireland,false,false
+Ki‑Jana Hoever,Wolverhampton Wanderers,false,Defender,Netherlands,false,false
+Rodrigo Gomes,Wolverhampton Wanderers,false,Midfielder,Portugal,false,false
+Jean‑Ricner Bellegarde,Wolverhampton Wanderers,false,Midfielder,France,false,false
+João Gomes,Wolverhampton Wanderers,false,Midfielder,Brazil,false,false
+Marshall Munetsi,Wolverhampton Wanderers,false,Midfielder,Zimbabwe,false,false
+André,Wolverhampton Wanderers,false,Midfielder,Portugal,false,false
+Jhon Arias,Wolverhampton Wanderers,false,Forward,Colombia,false,false
+Jørgen Strand Larsen,Wolverhampton Wanderers,false,Forward,Norway,false,false
+Hwang Hee‑chan,Wolverhampton Wanderers,false,Forward,South Korea,false,false
+Tolu Arokodare,Wolverhampton Wanderers,false,Forward,Nigeria,false,false
+Enso González,Wolverhampton Wanderers,false,Forward,Paraguay,false,false
+Mateus Mané,Wolverhampton Wanderers,false,Forward,Portugal,false,false
